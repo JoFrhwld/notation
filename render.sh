@@ -1,4 +1,4 @@
-quarto render notation.qmd --execute
+quarto render notation.qmd --execute --output index.html
 quarto render notation.qmd --execute --to pdf
 #quarto render notation.qmd --execute --to hugo
 

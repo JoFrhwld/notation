@@ -7,7 +7,6 @@ format:
     fig-cap-location: margin
     toc: true
     toc-location: left
-output-file: index.html    
 author: "[Josef Fruehwald](https://jofrhwld.github.io/)"
 license: "CC BY-SA 4.0"
 date: "2022-8-20"
