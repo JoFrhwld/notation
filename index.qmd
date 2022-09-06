@@ -1,13 +1,14 @@
 ---
 title: "Mathematical Notation"
 editor: visual
-format: 
-  html:
-    theme: materia
-    fig-cap-location: margin
-    toc: true
-    toc-location: left
-author: "[Josef Fruehwald](https://jofrhwld.github.io/)"
+format:
+  html: default
+  pdf:
+    output-file: "notation""
+    output-ext: "pdf""
+author: 
+  - name: Josef Fruehwald
+  - url: https://jofrhwld.github.io/
 license: "CC BY-SA 4.0"
 date: "2022-8-20"
 weight: 10
