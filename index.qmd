@@ -4,8 +4,8 @@ editor: visual
 format:
   html: default
   pdf:
-    output-file: "notation""
-    output-ext: "pdf""
+    output-file: "notation"
+    output-ext: "pdf"
 author: 
   - name: Josef Fruehwald
   - url: https://jofrhwld.github.io/
