@@ -264,7 +264,7 @@ If you know how to do some coding, sometimes it's easier to understand the mathe
 ```{r}
 #| include: false
 library(reticulate)
-use_condaenv("authoring")
+use_condaenv("transformers")
 ```
 
 ```{python}
