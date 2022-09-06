@@ -11,7 +11,6 @@ author:
   - url: https://jofrhwld.github.io/
 license: "CC BY-SA 4.0"
 date: "2022-8-20"
-weight: 10
 ---
 
 # Variables
@@ -387,8 +386,6 @@ $$
 The comma inside the $P()$ function means "and."
 
 ------------------------------------------------------------------------
-
--   [quarto source](notation.qmd)
 
 -   [pdf](notation.pdf)
 
